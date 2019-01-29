@@ -1,0 +1,17 @@
+{
+  "name": "matching",
+  "version": "1.0.0",
+  "description": "matching open close",
+  "main": "match.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "macthing"
+  ],
+  "author": "Edward Manda",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
